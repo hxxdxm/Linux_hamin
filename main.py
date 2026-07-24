@@ -45,7 +45,6 @@ while True:
 
     #정오 표시 및 등급
     print("정답 수 :", correct)
-    print("오답 수 :", incorrect)
     print("등급 :", grade)
 
     # 재시도 여부
